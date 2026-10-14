@@ -74,4 +74,3 @@ serviceAccount:
   create: true
   annotations: {}
   name: auth-service
-
